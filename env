@@ -1,4 +1,4 @@
 // config.js
 module.exports = {
-  OPENWEATHER_API_KEY: 'b8dd9bda43b8b74895a9f0a5757a7be9',
+  OPENWEATHER_API_KEY: '',
 };
